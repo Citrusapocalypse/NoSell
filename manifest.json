@@ -1,0 +1,10 @@
+{
+    "Name": "NoSell",
+    "Author": "Citrusapocalypse",
+    "Version": "1.0.0",
+    "Description": "Sets sell price of all items to 0. Doesn't affect purchasing prices.",
+    "UniqueID": "Citrusapocalypse.NoSell",
+    "EntryDll": "NoSell.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
